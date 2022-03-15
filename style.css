@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+     background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+h1{
+    font-size:20px;
+    color: darkred;
+}
+#b{
+    height: 400px;
+    width: 400px;
+    padding-right: 15px;
+}
+#p{
+    height: 400px;
+    width: 400px;
+    padding-left: 15px;
+}
+}
